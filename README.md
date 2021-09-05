@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kalamojo
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on a HTML/CSS website
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to get some work/intern experience
 - 📫 You can reach me at kalabiprof@gmail.com
 
 <!---
