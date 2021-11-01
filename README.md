@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kalamojo
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to get some work/intern experience
 - 📫 You can reach me at kalabiprof@gmail.com
 
