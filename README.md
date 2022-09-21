@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to get some work/intern experience
 - 📫 You can reach me at kalabiprof@gmail.com
+- 🕸️ Visit my [website](https://kalamojo.github.io/) as well
 
 <!---
 Kalamojo/Kalamojo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
