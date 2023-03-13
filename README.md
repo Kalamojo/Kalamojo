@@ -11,6 +11,8 @@
   </a>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=Kalamojo&style=flat-square&color=blue" alt=""/>
+
 </div>
 <!---
 Kalamojo/Kalamojo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
