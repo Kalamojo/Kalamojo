@@ -1,3 +1,5 @@
+![Shiny Haxorus with gray and orange tones](https://github.com/Kalamojo/Kalamojo/resources/Haxorus_Drip.png)
+
 - 👋 Hi, I’m @Kalamojo
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Python
