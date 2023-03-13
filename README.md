@@ -19,11 +19,15 @@
 
 ### :nigeria: About Me :
 
-I am a software engineer currently studying computer science.
+I am a software engineer currently studying computer science. I have a passion for solving problems and predicting the future.
 
 ---
 
+<div id="header" align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalamojo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 <!---
 Kalamojo/Kalamojo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
