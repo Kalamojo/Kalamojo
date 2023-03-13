@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-<img src="https://github.com/Kalamojo/Kalamojo/blob/main/resources/Haxorus_Drip.png" alt="Shiny Haxorus with gray and orange tones" width="700"/>
+<img src="https://github.com/Kalamojo/Kalamojo/blob/main/resources/Haxorus_Drip.png" alt="Shiny Haxorus with gray and orange tones"/>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/kolade-alabi/">
