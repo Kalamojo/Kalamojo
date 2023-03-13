@@ -13,7 +13,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Kalamojo&style=flat-square&color=blue" alt=""/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalamojo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <!---
